@@ -9,5 +9,5 @@
 3. 온라인 저장소 생성<br>
 `$ git remote add origin https://repo주소.git`<br>
 
-4. README.md 파일 온라인 저장소에 업로드
+4. README.md 파일 온라인 저장소에 업로드<br>
 `$ git push -u origin main`
