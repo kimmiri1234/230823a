@@ -11,3 +11,5 @@
 
 4. README.md 파일 온라인 저장소에 업로드<br>
 `$ git push -u origin main`
+
+### github에서 내려 받기 ###
