@@ -1,13 +1,13 @@
 ## 230823 ##
-1. 로컬 저장소 생성
-`code($ git init)`
+1. 로컬 저장소 생성<br>
+`$ git init`
 
-2. README.md 파일 생성
-$ git add .
-$ git commit -m "README.md 파일 생성"
+2. README.md 파일 생성<br>
+`$ git add .`<br>
+`$ git commit -m "README.md 파일 생성"`
 
-3. 온라인 저장소 생성
-$ git remote add origin https://repo주소.git
-$ git push -u origin main
+3. 온라인 저장소 생성<br>
+`$ git remote add origin https://repo주소.git`<br>
+`$ git push -u origin main`
 
 4. README.md 파일 온라인 저장소에 업로드
